@@ -1,0 +1,8 @@
+server:
+  port: 9053
+
+app:
+  firebase:
+    configuration-file: firebase-key-notification-push.json
+    topic:
+      - ""
