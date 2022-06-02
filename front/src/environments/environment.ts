@@ -8,13 +8,13 @@ const BASE = '/api/v1/notification';
 export const environment = {
   production: false,
   firebaseConfig :  {
-    apiKey: "AIzaSyDHcMQ2xc8oO-5Nf87AfxioRY_Vy1uK90Y",
-    authDomain: "notification-push-3973e.firebaseapp.com",
-    projectId: "notification-push-3973e",
-    storageBucket: "notification-push-3973e.appspot.com",
-    messagingSenderId: "717966679749",
-    appId: "1:717966679749:web:3a19daeee88360dc871aac",
-    vapidKey: "BJ5o5iy62qwiFud1Ak29PbDUc-NqM1yuvizE5XUoksGXDyjNGmre3gVPKrJAGHby9jV4B791KVrGXSzdPqm2_dc"
+    apiKey: "XXXXXXXXXXXXXXXXXXXXXX",
+    authDomain: "XXXXXXXXXXXXXXXXXXXXXX",
+    projectId: "XXXXXXXXXXXXXXXXXXXXXX",
+    storageBucket: "XXXXXXXXXXXXXXXXXXXXXX",
+    messagingSenderId: "XXXXXXXXXXXXXXXXXXXXXX",
+    appId: "XXXXXXXXXXXXXXXXXXXXXX",
+    vapidKey: "XXXXXXXXXXXXXXXXXXXXXX"
   },
   SEND_NOTIFICATION: `${HOST}${BASE}/token`,
   SEND_NOTIFICATION_BY_TOKEN: `${HOST}${BASE}`,
